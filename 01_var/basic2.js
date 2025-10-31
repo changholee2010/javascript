@@ -1,4 +1,5 @@
 // basic2.js
+// 형변환.
 let num1 = 10; // 숫자리터럴
 let num2 = 20;
 
